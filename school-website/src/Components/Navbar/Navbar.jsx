@@ -8,9 +8,10 @@ const Navbar = () => {
         <img src={logo} alt="Logo" className='logo'/>
         <ul>
             <li>Home</li>
-            <li>About</li>
-            <li>Admissions</li>
-            <li>Academics</li>
+            <li>Programs</li>
+            <li>About Us</li>
+            <li>Campus</li>
+            <li>Testimonials</li>
             <li><button className='btn'>Contact Us</button></li>
         </ul>
     </nav>
