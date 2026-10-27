@@ -156,17 +156,7 @@ Focused on building the frontend experience and connecting it with the applicati
 
 </div>
 
----
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/cjmgrc/cjmgrc/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-
-</div>
-
----
 
 ## 🧭 Current Quest
 
